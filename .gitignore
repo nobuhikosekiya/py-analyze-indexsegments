@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Generated data files
+stats.json
+index_segments_sorted.csv
+index_segments_grouped_sorted.csv
+metrics_before_merge_*.json
+metrics_after_merge_*.json
+forcemerge_comparison_*.json
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
